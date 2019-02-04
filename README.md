@@ -1,5 +1,5 @@
 # MySQL-Practice
 MySQL Practice using VS2017 C++
 
-- msql query library
+- mysql query library
 	- https://github.com/flurreh/mysqlquerypp
